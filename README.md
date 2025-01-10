@@ -1,1 +1,1 @@
-# Imagens-com-ia
+Estudo de imagens com ia
